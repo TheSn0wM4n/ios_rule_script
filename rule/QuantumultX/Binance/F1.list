@@ -1,0 +1,8 @@
+# NAME: F1
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2024-07-03 16:17:44
+# HOST-SUFFIX: 12
+# TOTAL: 12
+HOST-SUFFIX,formula1.com,formula1
+HOST-KEYWORD,formula1,formula1
